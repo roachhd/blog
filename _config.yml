@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Zach Holman
+url: http://roachhd.github.io/left
+description: A fantastic blog that is fantastic.
+twitter: mektball
